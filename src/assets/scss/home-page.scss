@@ -1,0 +1,62 @@
+@import "colors";
+@import "utilities";
+@import "override";
+/*===========Home page styles ================*/
+
+.pattern-box{
+    width: 100%;
+    background-color: $primary ;
+    min-height: 740px;
+    position: absolute;
+    padding: 0 3em;
+
+  
+.bg-pattern{
+    position: absolute;
+    left: 0;
+    top:0;
+    bottom:0;
+    width: 40%;
+    background: url("../img/home-loop.png") repeat left top;
+    display: block
+}
+
+.angled-div:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -30px;
+    overflow: visible;
+    width: 100%;
+    z-index: 1;
+    -webkit-transform: skewY(2deg);
+    -moz-transform: skewY(2deg);
+    -ms-transform: skewY(2deg);
+    -o-transform: skewY(2deg);
+    transform: skewY(2deg);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: initial;
+    min-height: 70px;
+}
+
+.bb {
+    position: relative;
+     background: #ff9900;
+    max-width: 200px;
+    top: 10px;
+    left: 10px;
+    color: #FFF;
+    padding: 5px 10px;
+    height:200px;
+}
+.home-content{
+    position: absolute;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    top: 120px;
+    left: 0;
+    right: 0;
+    display: block;
+    z-index: 3;
+    color: $white;
+}
+}

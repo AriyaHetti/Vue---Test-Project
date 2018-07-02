@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "cff5a27dc9784291449c65e304ad466f",
+      "css": "icon-cross",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M592 505L970 127C996 101 996 60 970 35 944 9 903 9 878 35L500 413 122 34C96 8 55 8 30 34 4 60 4 101 30 126L408 504 29 883C3 909 3 950 29 975 42 988 58 994 75 994S108 988 121 975L500 597 878 975C891 988 907 994 924 994S957 988 970 975C996 949 996 908 970 883L592 505Z",
+        "width": 1000
+      },
+      "search": [
+        "icon-cross"
+      ]
+    },
+    {
+      "uid": "a5311cb77c48ad14cafb3e42e22bee39",
+      "css": "icon-ok",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M321 864C309 864 297 859 287 850L24 587C5 568 5 538 24 519 43 500 73 500 92 519L321 748 908 160C927 141 957 141 976 160 995 179 995 209 976 228L355 850C345 859 333 864 321 864Z",
+        "width": 1000
+      },
+      "search": [
+        "icon-ok"
+      ]
+    }
+  ]
+}
