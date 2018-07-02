@@ -1,6 +1,6 @@
 ## Introduction
 
-html/css Assignment](http://panjiachen.github.io/vue-element-admin) done in Vue js environment.
+html/css Assignment.
 
 
 ## Preparation
